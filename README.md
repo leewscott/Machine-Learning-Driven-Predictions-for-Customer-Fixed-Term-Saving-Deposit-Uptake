@@ -1,0 +1,2 @@
+# Machine-Learning-Driven-Predictions-for-Customer-Fixed-Term-Saving-Deposit-Uptake
+Built predictive models using Scikit-Learn to classify if a customer would make a fixed-term saving deposit using bank marketing data from the UCI ML Repository. Performed an EDA, addressed class imbalances, engineered features and developed a pipeline to prepare for training. Trained and fine-tuned three different models using grid-search.
